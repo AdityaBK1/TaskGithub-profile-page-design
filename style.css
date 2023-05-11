@@ -1,0 +1,96 @@
+.a{
+    color:white;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.b{
+    background-color:#2f3d46;
+    padding: 1em;
+    height: 100%;
+    width:109%;
+    overflow: auto;
+    object-fit:cover;
+    scroll-margin-bottom:100%;
+}
+.c{
+    /* background-color: #c5db37; */
+  padding: 10px;
+  width: 300px;
+  height: 700px;
+  position: absolute;
+  top: 10px;
+  overflow: hidden;
+}
+.d{
+     background-color: #cad2c5 ;
+position: absolute;
+height: 100%;
+width: 110%;
+object-fit: cover;
+overflow: scroll;
+scroll-margin-bottom:100%;
+}
+.e{
+    width: 330px;
+    height:550px;
+    border-radius: 25px;
+    position: absolute;
+    top: 50px;
+    left:100px;
+    background-color: #353535;
+    overflow: auto;
+}
+.f{
+    width: 550px;
+    height: 40px;
+    border-radius: 10px 10px 10px 10px;
+    position: absolute;
+    top: 60px;
+    left:650px;
+    background-color: #353535;
+    text-align: left;
+    color: grey;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    overflow: auto;
+}
+.g{
+    width: 210px;
+    height: 150px;
+    border-radius: 25px;
+    position: absolute;
+    top: 150px;
+    left:550px;
+    background-color: #353535;
+    overflow: auto;
+}
+.h{
+    width: 210px;
+    height: 150px;
+    border-radius: 25px 25px 25px 25px;
+    position: absolute;
+    top: 150px;
+    left:800px;
+    background-color: #353535;
+    overflow: auto;
+}
+.i{
+    width: 210px;
+    height: 150px;
+    border-radius: 25px;
+    position: absolute;
+    top: 150px;
+    left:1050px;
+    background-color: #353535;
+    overflow: auto;
+}
+.j{
+    width: 720px;
+    height: 150px;
+    border-radius: 25px;
+    position: absolute;
+    top: 400px;
+    left:550px;
+    background-color: #353535;
+    overflow:auto;
+}
